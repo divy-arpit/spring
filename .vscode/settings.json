@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "chatbotapp\\src\\main\\java\\chatbotapp",
+        "chatbotapp\\src\\main\\java",
+        "chatbotapp\\src\\main\\java\\chatbotapp\\chatbotapp"
+    ]
+}
